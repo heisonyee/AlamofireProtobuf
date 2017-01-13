@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Protobuf (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2.0)
+  - Protobuf (~> 3.1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Protobuf: 265e9977d04a83eba9cefb0bed3ad07e41033b4a
+
+PODFILE CHECKSUM: 8cf477cc83baeb57eb92298da88ab6a1ca199066
+
+COCOAPODS: 1.1.1
